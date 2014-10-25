@@ -1,4 +1,4 @@
-androidappscoursera
+androidscala
 ===================
 
 android apps in scala using scaloid/macroid
